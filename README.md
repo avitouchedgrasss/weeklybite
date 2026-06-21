@@ -179,7 +179,7 @@ weeklybite/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/weeklybite.git
+git clone https://github.com/avitouchedgrasss/weeklybite.git
 cd weeklybite
 
 # 2. (Optional but recommended) Create a virtual environment
