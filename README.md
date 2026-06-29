@@ -5,8 +5,6 @@ a Supabase (PostgreSQL) database. Plan your meals for the week, automatically
 generate a de-duplicated grocery list, and track calories & macronutrients
 against a personalized daily target — all from one simple, single-page app.
 
-> No login screen, no separate frontend/backend codebases, no DevOps.
-> The entire app is one Python file talking to your cloud database.
 
 ---
 
